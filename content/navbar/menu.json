@@ -1,0 +1,31 @@
+[
+    {
+        "id" : 1,
+        "label" : "Home",
+        "permalink" :"/"
+    },
+
+    {
+        "id" : 2,
+        "label" : "Marketplace",
+            "permalink" :"/marketplace"
+    },
+
+    {
+        "id" : 3,
+        "label" : "Services",
+            "permalink" :"/services"
+    },
+
+    {
+        "id" : 4,
+        "label" : "About",
+            "permalink" :"/about"
+    },
+
+    {
+        "id" : 5,
+        "label" : "Contact",
+            "permalink" :"/contact"
+    }
+]
